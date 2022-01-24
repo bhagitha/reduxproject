@@ -12,7 +12,7 @@ import {
     ShoppingBasketOutlined,
   } from "@material-ui/icons";
   import React from "react";
-  import MenuLink from "../menuLink/MenuLink";
+  import MenuLink from "../menulink/MenuLink";
   import "./leftbar.css";
   
   export default function Leftbar() {

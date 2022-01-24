@@ -1,5 +1,5 @@
 import React from "react";
-import "./recommendation.css";
+import "./recommendations.css";
 
 export default function Recommendation({ type }) {
   const title =
